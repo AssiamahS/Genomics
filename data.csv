@@ -1,0 +1,8 @@
+# cancer_genomics.csv
+Sample, Gene, Expression
+Sample1, TP53, 2.3
+Sample1, BRCA1, 1.5
+Sample2, TP53, 2.1
+Sample2, BRCA1, 2.7
+Sample3, TP53, 1.9
+Sample3, BRCA1, 1.8
